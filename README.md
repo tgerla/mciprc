@@ -18,7 +18,7 @@ When a new property is added to the cooperative, it will be added to the end of 
 
 ## Resources
 
-https://projects.ncsu.edu/goingnative/howto/mapping/invexse/index.html
-http://walamarestoration.org/resources/english-ivy-the-hazards-and-removal-strategies
-https://www.ncwildflower.org/plant_galleries/invasives_list
-http://ncbg.unc.edu/uploads/files/ControllingBooklet.pdf
+- https://projects.ncsu.edu/goingnative/howto/mapping/invexse/index.html
+- http://walamarestoration.org/resources/english-ivy-the-hazards-and-removal-strategies
+- https://www.ncwildflower.org/plant_galleries/invasives_list
+- http://ncbg.unc.edu/uploads/files/ControllingBooklet.pdf
