@@ -18,7 +18,7 @@ When a new property is added to the cooperative, it will be added to the end of 
 
 ## Resources
 
-- https://projects.ncsu.edu/goingnative/howto/mapping/invexse/index.html
-- http://walamarestoration.org/resources/english-ivy-the-hazards-and-removal-strategies
-- https://www.ncwildflower.org/plant_galleries/invasives_list
-- http://ncbg.unc.edu/uploads/files/ControllingBooklet.pdf
+- [Invasive, Exotic Plants of the Southeast](https://projects.ncsu.edu/goingnative/howto/mapping/invexse/index.html)
+- [English Ivy: The Hazards and Removal Strategies](http://walamarestoration.org/resources/english-ivy-the-hazards-and-removal-strategies)
+- [NC Native Plant Society – Invasive Exotic Plants in NC](https://www.ncwildflower.org/plant_galleries/invasives_list)
+- [Controlling Invasive Plants - NC Botanical Garden](http://ncbg.unc.edu/uploads/files/ControllingBooklet.pdf)
