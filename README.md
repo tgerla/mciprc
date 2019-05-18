@@ -15,3 +15,10 @@ Properties will be placed in a random list and everyone will start with 0 points
 Point balances can go negative. If you have a negative point balance, your property will be skipped in the rotation until you have worked enough shifts to gain a positive balance. Any point balance above zero qualifies your property for rotation–you don’t need to “save up” points for your property to return to rotation.
 
 When a new property is added to the cooperative, it will be added to the end of the rotation list. New members will be given a 0 balance and must work a shift before their property will be eligible for the rotation.
+
+## Resources
+
+https://projects.ncsu.edu/goingnative/howto/mapping/invexse/index.html
+http://walamarestoration.org/resources/english-ivy-the-hazards-and-removal-strategies
+https://www.ncwildflower.org/plant_galleries/invasives_list
+http://ncbg.unc.edu/uploads/files/ControllingBooklet.pdf
