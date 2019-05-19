@@ -6,6 +6,8 @@ Welcome! We are building a cooperative group to remove invasive plants in the Ch
 
 To join the collective, you must commit to 4 hours a month removing invasive plants on another cooperative member’s property or on public land (with approval).
 
+### [Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSdFdG7NXd_qHW-yqj3NQz-jaksgOeKFgbty_DJipAbZRidsEQ/viewform)
+
 ## Rules
 
 Points are awarded for worked shifts. The number of hours you work on a property other than yours equals the points that you will earn. If you own the property being worked on, you won’t earn points for your hours worked, but you will be expected to work during shifts on your property.
